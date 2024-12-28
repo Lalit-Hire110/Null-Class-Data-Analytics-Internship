@@ -1,0 +1,70 @@
+Introduction
+
+This report summarizes the development of a Power BI dashboard designed to analyze tweet engagement rates. The project aimed to create interactive and visually appealing insights by applying advanced filtering, time-based visualizations, and user-focused features.
+
+
+Background
+
+Social media analytics is critical for understanding audience behavior. This project specifically targeted tweet engagement metrics, focusing on likes, retweets, impressions, and contextual filters to gain actionable insights.
+
+
+Learning Objectives
+
+Master advanced Power BI functionalities, including DAX measures and dynamic filtering.
+
+Enhance visualization skills to build user-friendly dashboards.
+
+Apply logical conditions to reflect real-world scenarios dynamically.
+
+
+Activities and Tasks
+
+Task 1: Develop a table for the top 10% tweets with the highest engagement rates under specific conditions.
+
+Task 2: Build a chart to identify the top 10 tweets by combined likes and retweets, with various filters.
+
+Task 3: Compare engagement rates for tweets with and without app opens, applying dynamic visibility rules.
+
+Preprocessing steps like character removal, word count calculations, and DAX-based conditions were implemented to refine data.
+
+
+Skills and Competencies
+
+Technical Skills: Proficiency in DAX for complex measures, Power BI visualization techniques, and dynamic filtering.
+
+Problem-Solving: Designing logical workflows for time and data-based conditions.
+
+Attention to Detail: Managing granular filtering criteria to meet specific requirements.
+
+
+Feedback and Evidence
+
+Feedback: I was personally satisfied with the dynamic visibility of graphs and the clean, organized design. The ability to adapt visualizations to real-time scenarios improved my confidence in creating professional dashboards.
+
+Evidence: Final dashboard included time-sensitive visualizations and text-based summaries dynamically adapting to user conditions.
+
+
+Challenges and Solutions
+
+Issue: Engagement rate values initially appeared incorrect due to measure dependencies.
+
+Solution: Refined DAX measures and added intermediate debugging steps.
+
+Issue: Filters resulted in empty tables or graphs in some scenarios.
+
+Solution: Adjusted threshold values and ensured logical compatibility of conditions.
+
+
+Outcomes and Impact
+
+Delivered a fully functional and visually engaging Power BI dashboard.
+
+Enabled stakeholders to draw actionable insights from filtered data.
+
+Gained hands-on experience with dynamic filtering, user-focused design, and advanced DAX logic.
+
+
+Conclusion
+
+The project successfully met its objectives, creating a robust and user-friendly dashboard. It enhanced analytical and visualization skills, addressed complex challenges, and delivered impactful solutions for social media data analysis.
+
